@@ -1,0 +1,32 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: #525252;
+}
+
+.midBox{
+	margin: 0 auto;
+	width: 400px;
+	height: 200px;
+	position: relative;
+	top: 200px;
+	background-color: #ADADAD;
+}
+
+.midBox>p{
+	text-align: center;
+	font-size: 24px;
+	position: relative;
+	top: 20px;
+}
+
+#formBox{
+	position: relative;
+	text-align: center;
+	top: 50px;
+}
+
+#submitButton{
+	width: 70px;
+	height: 30px;
+	margin-top: 10px;
+}
