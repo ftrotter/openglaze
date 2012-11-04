@@ -28,8 +28,12 @@
 <html>
 <head>
 	<title>QR IMG Upload</title>
+	<link rel="stylesheet" type='text/css' href="style.css">
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<p> Uploaded successfully! </p>
+	<div class='midBox'>
+		<p> Uploaded successfully! </p>
+	</div>
 </body>
 </html>
